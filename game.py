@@ -1,9 +1,8 @@
 """
-Created by: Anthony Foster
+Created by: Tony Foster
 Date: 12/28/2021
 Purpose: Fun project to explore data modeling and event driven logic
 License: The code in here is considered free for open source projects
-Contact: tonycfoster@gmail.com
 """
 
 #from character import Character
