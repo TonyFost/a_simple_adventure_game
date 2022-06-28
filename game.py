@@ -1,7 +1,7 @@
 """
 Created by: Anthony Foster
 Date: 12/28/2021
-Purpose: For nucamp portfolio project
+Purpose: Fun project to explore data modeling and event driven logic
 License: The code in here is considered free for open source projects
 Contact: tonycfoster@gmail.com
 """
